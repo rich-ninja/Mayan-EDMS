@@ -309,9 +309,6 @@ a i {
  * Main content
  */
 
-.main {
-}
-
 /* Remove scroll bar caused by bootstraps -15px on .row margins */
 .zero-margin {
     margin-right: 0;
